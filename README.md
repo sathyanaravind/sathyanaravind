@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋,  </h1>
-<h3 align="center"> I'm Aravind,a passionate AI developer from India. I really enjoying learning new machine learning technologies and building AI powered producted.  </h3>
+<h3 align="center"> I'm Aravind,a passionate AI developer from India. I really enjoying learning new machine learning technologies and building AI powered application. Currently I am learning and depolying full stack generative ai apps. Please go through my portofolio to view latest works </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sathyanaravind&label=Profile%20views&color=0e75b6&style=flat" alt="sathyanaravind" /> </p>
 
