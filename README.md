@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sathyanaravind&label=Profile%20views&color=0e75b6&style=flat" alt="sathyanaravind" /> </p>
 
-- 🔭  I'm Aravind, a passionate AI developer from India. I really enjoy learning new machine learning technologies and building AI powered application. Currently I am learning and depolying full stack generative ai apps
-- 🌱 I’m currently learning learning and depolying full stack generative ai apps
+- 🔭  I'm Aravind, a passionate AI developer from India. I enjoy learning new machine learning technologies and building AI powered application.
+- 🌱 I’m currently building and depolying full stack generative ai apps
 
 - 👨‍💻 All of my projects are available at [github.io/sathayanaravind](github.io/sathayanaravind)
 
