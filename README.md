@@ -9,6 +9,9 @@
   
 - 👨‍💻 Latest works   
 [SmartATS](https://github.com/sathyanaravind/LLM-Apps/tree/main/SmartATS) : a streamlit based application that help job seekers to align their resumes with specific job descriptions
+<div align="center">
+    <img src="https://github.com/sathyanaravind/LLM-Apps/blob/main/SmartATS/ats.gif" alt="Webapp Demo GIF" width="200" height="200" />
+</div>
   
 
 <h3 align="left">Connect with me:</h3>
