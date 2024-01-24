@@ -7,8 +7,8 @@
 - 🌱 I’m currently building and depolying full stack generative ai apps. All of my projects are available at [github.io/sathayanaravind](github.io/sathayanaravind)
 - 📫 How to reach me **aravi.sathyan@gmail.com**  
   
-- 👨‍💻 Latest works 
- [SmartATS](https://github.com/sathyanaravind/LLM-Apps/tree/main/SmartATS) : a streamlit based application that help job seekers to align their resumes with specific job descriptions
+- 👨‍💻 Latest works   
+[SmartATS](https://github.com/sathyanaravind/LLM-Apps/tree/main/SmartATS) : a streamlit based application that help job seekers to align their resumes with specific job descriptions
   
 
 <h3 align="left">Connect with me:</h3>
