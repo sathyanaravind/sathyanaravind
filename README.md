@@ -3,12 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sathyanaravind&label=Profile%20views&color=0e75b6&style=flat" alt="sathyanaravind" /> </p>
 
-- 🔭  I'm Aravind, a passionate AI developer from India. I enjoy learning new machine learning technologies and building AI powered application.
-- 🌱 I’m currently building and depolying full stack generative ai apps. All of my projects are available at [github.io/sathayanaravind](github.io/sathayanaravind)
+- 🔭  I'm Aravind, an AI developer from India. I enjoy learning new machine learning technologies and building AI-powered applications.
+- 🌱 I’m currently building and depolying full stack generative AI apps. All of my projects are available at [github.io/sathayanaravind](github.io/sathayanaravind)
 - 📫 How to reach me **aravi.sathyan@gmail.com**  
   
 - 👨‍💻 Latest works   
-[SmartATS](https://github.com/sathyanaravind/LLM-Apps/tree/main/SmartATS) : a streamlit based application that help job seekers to align their resumes with specific job descriptions
+[SmartATS](https://github.com/sathyanaravind/LLM-Apps/tree/main/SmartATS) : a streamlit based application that helps job seekers to align their resumes with specific job descriptions
 <div align="center">
     <img src="https://github.com/sathyanaravind/LLM-Apps/blob/main/SmartATS/ats.gif" alt="Webapp Demo GIF" width="400" height="225" />
 </div>
