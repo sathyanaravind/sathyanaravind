@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sathyanaravind&label=Profile%20views&color=0e75b6&style=flat" alt="sathyanaravind" /> </p>
 
 - 🔭  I'm Aravind, an AI developer from India. I enjoy learning new machine learning technologies and building AI-powered applications.
-- 🌱 I’m currently building and depolying full stack generative AI apps. All of my projects are available at [github.io/sathayanaravind](github.io/sathayanaravind)
+- 🌱 I’m currently building and deploying full stack generative AI apps. All of my projects are available at [github.io/sathayanaravind](github.io/sathayanaravind)
 - 📫 How to reach me **aravi.sathyan@gmail.com**  
   
 - 👨‍💻 Latest works   
