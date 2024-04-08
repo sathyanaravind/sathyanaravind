@@ -9,7 +9,7 @@
   
 - 👨‍💻 Latest works   
 <div align="center">
-    <img src="https://github.com/sathyanaravind/LLM-Apps/blob/main/portfolio.gif" alt="My Portfolio" width="600" height="325" />
+    <img src="https://github.com/sathyanaravind/LLM-Apps/blob/main/portfolio.gif" alt="My Portfolio" width="800" height="450" />
 </div>
   
 
